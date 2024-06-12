@@ -1,7 +1,7 @@
 
 # ToDo App
 
-This is a backend application for a blog app. You can connect any frontend to this backend, or use one of the provided frontend applications:
+This is a backend application for a ToDo app. You can connect any frontend to this backend, or use one of the provided frontend applications:
 
 - [TO DO App Frontend](https://github.com/harshmahalle/To-Do-List-Using-HTML-CSS-and-JS-.git)
 
@@ -9,7 +9,7 @@ This is a backend application for a blog app. You can connect any frontend to th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshmahalle/Blog-App---Main.git
+   git clone https://github.com/harshmahalle/ToDo-App---Backend-Logic.git
    ```
 
 2. Install dependencies:
